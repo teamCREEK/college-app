@@ -1,1 +1,1 @@
-# college-app
+# College Admission Process Mobile Application
