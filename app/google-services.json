@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "972138761644",
+    "firebase_url": "https://collegr-10047.firebaseio.com",
+    "project_id": "collegr-10047",
+    "storage_bucket": "collegr-10047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972138761644:android:7cc78d9d323feac1",
+        "android_client_info": {
+          "package_name": "com.teamcreek.collegeplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972138761644-651vrktife8kvmbk8cjmfdr58vvds6g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJiL8Gjc8_qHOqMNXZwVq9PrLq9IIRk-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
